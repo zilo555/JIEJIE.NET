@@ -1,6 +1,6 @@
 # Publish new project CAAM(Make WinForms Great Again) at [https://github.com/dcsoft-yyf/CAAM](https://github.com/dcsoft-yyf/CAAM)
 
-# Publish new project WF2W) at [https://github.com/dcsoft-yyf/MWGA](https://github.com/dcsoft-yyf/WF2W)
+# Publish new project WF2W) at [https://github.com/dcsoft-yyf/WF2W](https://github.com/dcsoft-yyf/WF2W)
 # JIEJIE.NET | 结界.NET
   An open source tool to obfuscation .NET assembly file, help people protect theirs copyright.
   <br /> Jie(2)Jie(4) in chinese is a kind of transparet magic protect shield.
